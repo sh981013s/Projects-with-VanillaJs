@@ -17,5 +17,6 @@
 
 |  #  |            Project             | Live Demo |
 | :-: | :----------------------------: | :-------: |
-| 01  |       [Form Validator](https://github.com/sh981013s/Projects-with-VanillaJs/tree/main/Form-Validator)       | [Live Demo](https://hwani-vanillajs.netlify.app/form-validator/)  |
+| 01  | Form Validator | [Live Demo](https://hwani-vanillajs.netlify.app/form-validator/)  |
+| 02  | Movie Seat Booking | [Live Demo](https://hwani-vanillajs.netlify.app/movie-seat-booking/)  |
 
