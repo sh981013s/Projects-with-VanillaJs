@@ -20,6 +20,11 @@ body {
     margin: 20px 0;
 }
 
+.movie-container h1 {
+    background: #1E1C28;
+    padding: 10px;
+}
+
 .movie-container select {
     background: #fff;
     border: 0;
@@ -110,4 +115,18 @@ p.text {
 
 p.text span {
     color: #6feaf6;
+}
+
+.clear {
+    background: #777;
+    border: 2px solid #777;
+    border-radius: 5px;
+    width: 50px;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.clear:hover {
+    cursor: pointer;
 }
