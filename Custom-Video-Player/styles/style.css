@@ -20,6 +20,7 @@ h1 {
 }
 
 video {
+    width: 50% !important;
     height: 50vh;
     object-fit: fill; /*to add black content at top and bottom*/
     object-position: 0 -14px; /* to center our image*/
@@ -27,14 +28,14 @@ video {
 
 .screen {
     cursor: pointer;
-    width: 60%;
+    width: 50%;
     background: #000 !important;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
 
 .controls {
-    width: 60%;
+    width: 50%;
     background: #333;
     color: #fff;
     border-bottom-left-radius: 10px;
