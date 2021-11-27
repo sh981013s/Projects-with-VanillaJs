@@ -19,4 +19,6 @@
 | :-: | :----------------------------: | :-------: |
 | 01  | Form Validator | [Live Demo](https://hwani-vanillajs.netlify.app/form-validator/)  |
 | 02  | Movie Seat Booking | [Live Demo](https://hwani-vanillajs.netlify.app/movie-seat-booking/)  |
+| 03  | Custom Video Player | [Live Demo](https://hwani-vanillajs.netlify.app/custom-video-player/)  |
+
 
