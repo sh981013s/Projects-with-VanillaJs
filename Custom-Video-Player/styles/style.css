@@ -19,6 +19,12 @@ h1 {
     color: #fff;
 }
 
+video {
+    height: 50vh;
+    object-fit: fill; /*to add black content at top and bottom*/
+    object-position: 0 -14px; /* to center our image*/
+}
+
 .screen {
     cursor: pointer;
     width: 60%;
