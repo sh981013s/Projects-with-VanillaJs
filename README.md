@@ -21,6 +21,8 @@
 | 02  | Movie Seat Booking | [Live Demo](https://hwani-vanillajs.netlify.app/movie-seat-booking/)  |
 | 03  | Custom Video Player | [Live Demo](https://hwani-vanillajs.netlify.app/custom-video-player/)  |
 | 04  | Exchange Rate Calculator | [Live Demo](https://hwani-vanillajs.netlify.app/exchange-rate-calculator/)  |
+| 05  | Personal Information List | [Live Demo](https://hwani-vanillajs.netlify.app/personal-information-list/)  |
+
 
 
 
