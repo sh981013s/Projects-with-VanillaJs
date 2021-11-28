@@ -7,10 +7,6 @@ const calculateWealthBtn = document.getElementById('calculate-wealth');
 
 let data = [];
 
-getRandomUser();
-getRandomUser();
-getRandomUser();
-
 // Fetch random user and add money
 async function getRandomUser() {
   const res = await fetch('https://randomuser.me/api');
