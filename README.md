@@ -23,7 +23,8 @@
 | 04  | Exchange Rate Calculator | [Live Demo](https://hwani-vanillajs.netlify.app/exchange-rate-calculator/)  |
 | 05  | Personal Information List | [Live Demo](https://hwani-vanillajs.netlify.app/personal-information-list/)  |
 | 06  | Menu Sidebar & Modal | [Live Demo](https://hwani-vanillajs.netlify.app/menu-sidebar-modal/)  |
-| 07  | Hangman game | [Live Demo](https://hwani-vanillajs.netlify.app/meal-finder/)  |
+| 07  | Hangman game | [Live Demo](https://hwani-vanillajs.netlify.app/hangman-game/)  |
+| 08  | Meal finder | [Live Demo](https://hwani-vanillajs.netlify.app/meal-finder/)  |
 
 
 
