@@ -22,3 +22,37 @@ body {
 .flex {
     display: flex;
 }
+
+input,
+button {
+    border: 1px solid #dedede;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    font-size: 14px;
+    padding: 8px 10px;
+    margin: 0;
+}
+
+input[type='text'] {
+    width: 300px;
+}
+
+.search-btn {
+    cursor: pointer;
+    border-left: 0;
+    border-radius: 0 4px 4px 0;
+}
+
+.random-btn {
+    cursor: pointer;
+    margin-left: 10px;
+    border-radius: 4px;
+}
+
+@media(max-width: 800px) {}
+@media(max-width: 700px) {}
+@media(max-width: 500px) {
+    input[type='text'] {
+        width: 100%;
+    }
+}
