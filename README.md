@@ -25,6 +25,7 @@
 | 06  | Menu Sidebar & Modal | [Live Demo](https://hwani-vanillajs.netlify.app/menu-sidebar-modal/)  |
 | 07  | Hangman game | [Live Demo](https://hwani-vanillajs.netlify.app/hangman-game/)  |
 | 08  | Meal finder | [Live Demo](https://hwani-vanillajs.netlify.app/meal-finder/)  |
+| 09  | Expense Tracker | [Live Demo](https://hwani-vanillajs.netlify.app/expense-tracker/)  |
 
 
 
