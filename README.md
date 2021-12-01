@@ -26,6 +26,8 @@
 | 07  | Hangman game | [Live Demo](https://hwani-vanillajs.netlify.app/hangman-game/)  |
 | 08  | Meal finder | [Live Demo](https://hwani-vanillajs.netlify.app/meal-finder/)  |
 | 09  | Expense Tracker | [Live Demo](https://hwani-vanillajs.netlify.app/expense-tracker/)  |
+| 10  | Music Player | [Live Demo](http://localhost:63342/vanilla_js_projects/Music-Player/index.html)  |
+
 
 
 
