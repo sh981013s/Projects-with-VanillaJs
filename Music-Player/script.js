@@ -45,7 +45,7 @@ const pauseSong = () => {
 const prevSong = () => {
     songIndex--;
     if(songIndex < 0) {
-        songIndex = songIndex.length-1;
+        songIndex = songs.length-1;
     }
     loadSong(songs[songIndex]);
     playSong();
