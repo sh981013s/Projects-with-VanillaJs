@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Infinite Scroll</title>
+</head>
+<body>
+<h1>Temp Blog(Infinite Scroll) 📜</h1>
+
+<div class="filter-container">
+    <input type="text" id="filter" class="filter" placeholder="Filter posts...">
+</div>
+
+<div id="post-container">
+    <div class="post">
+        <div class="number">1</div>
+        <div class="post-info">
+            <h2 class="post-title">Post One</h2>
+            <p class="post-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam asperiores consequuntur eaque mollitia nihil praesentium reiciendis tempore temporibus vitae! Deleniti doloribus dolorum hic? A amet consequuntur debitis itaque sed?
+            </p>
+        </div>
+    </div>
+    <div class="post">
+        <div class="number">2</div>
+        <div class="post-info">
+            <h2 class="post-title">Post two</h2>
+            <p class="post-body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam asperiores consequuntur eaque mollitia nihil praesentium reiciendis tempore temporibus vitae! Deleniti doloribus dolorum hic? A amet consequuntur debitis itaque sed?
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="loader">
+    <div class="circle"></div>
+    <div class="circle"></div>
+    <div class="circle"></div>
+</div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
