@@ -27,6 +27,8 @@
 | 08  | Meal finder | [Live Demo](https://hwani-vanillajs.netlify.app/meal-finder/)  |
 | 09  | Expense Tracker | [Live Demo](https://hwani-vanillajs.netlify.app/expense-tracker/)  |
 | 10  | Music Player | [Live Demo](https://hwani-vanillajs.netlify.app/music-player/)  |
+| 11  | Infinite Scroll | [Live Demo](https://hwani-vanillajs.netlify.app/infinite-scroll-posts/)  |
+
 
 
 
